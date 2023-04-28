@@ -18,5 +18,17 @@
     <ClCompile Include="static.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="은행계좌 구현하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_1_MAIN.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_SUB.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
